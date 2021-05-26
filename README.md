@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hola, yo soy Edgar 👋
 
-<!--
-**ecastillejos/ecastillejos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Kenobi](https://media1.tenor.com/images/78ac14aec72b4691de944619df3e6265/tenor.gif?itemid=18841535)
 
-Here are some ideas to get you started:
+## Soy Full Stack Developer 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Encuentro en la tecnología una oportunidad para tender puentes y conectar a las personas; empatizar, entender y resolver problemas con, por y para el otro. 🌎
+
+## Skills 🥇
+- JavaScript
+- React
+- Redux
+- Node
+- Express
+- Sequelize
+- PostgreSQL
+- HTML
+- CSS
+
+## Proyectos 💼
+> Próximamente adjuntaré capturas y explicaciones. Anotado... ✍️
+
+## Contáctame
+📥 [ecastillejossantamaria@gmail.com](mailto:ecastillejossantamaria@gmail.com)
