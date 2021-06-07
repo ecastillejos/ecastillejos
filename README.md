@@ -22,3 +22,6 @@ Encuentro en la tecnología una oportunidad para tender puentes y conectar a las
 
 ## Contáctame
 📥 [ecastillejossantamaria@gmail.com](mailto:ecastillejossantamaria@gmail.com)
+<p>
+<a href="https://www.linkedin.com/in/edgarcastillejos/"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
+  </p>
