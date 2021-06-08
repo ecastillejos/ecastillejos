@@ -18,12 +18,16 @@ Encuentro en la tecnología una oportunidad para tender puentes y conectar a las
 - CSS
 
 ## Proyectos 💼
+<h2 align='center'> Game-Over. Videogames Project 👾 <h2><p align='center'><br>
 <img src='./src/Captura1.png' alt="foto1" width="400" height="200">
 <img src='./src/Captura2.png' alt="foto2" width="400" height="200">
-<img src='./src/Busqueda.gif' alt="gif1" width="400" height="200">
 <img src='./src/Captura3.png' alt="foto3" width="400" height="200">
-<img src='./src/Detalles.gif' alt="gif2" width="400" height="200">
-
+<img src='./src/Captura4.png' alt="foto4" width="400" height="200">
+</p>
+<h5>
+<h4>Client:</h4> React, Redux <br>
+  <h4>Server:</h4> Node, Express, PostgreSQL, Sequelize</h5>
+<hr/>
 
 Más proyectos en breve... ✍️
 
