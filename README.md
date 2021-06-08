@@ -18,10 +18,17 @@ Encuentro en la tecnología una oportunidad para tender puentes y conectar a las
 - CSS
 
 ## Proyectos 💼
-> Próximamente adjuntaré capturas y explicaciones. Anotado... ✍️
+<img src='./src/Captura1.png' alt="foto1" width="400" height="200">
+<img src='./src/Captura2.png' alt="foto2" width="400" height="200">
+<img src='./src/Busqueda.gif' alt="gif1" width="400" height="200">
+<img src='./src/Captura3.png' alt="foto3" width="400" height="200">
+<img src='./src/Detalles.gif' alt="gif2" width="400" height="200">
+
+
+Más proyectos en breve... ✍️
 
 ## Contáctame
-📥 [ecastillejossantamaria@gmail.com](mailto:ecastillejossantamaria@gmail.com)
 <p>
-<a href="https://www.linkedin.com/in/edgarcastillejos/"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
-  </p>
+  <a target="_blank" href="https://www.linkedin.com/in/edgarcastillejos/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:ecastillejossantamaria@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+ </p>
