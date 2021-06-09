@@ -24,6 +24,17 @@ Encuentro en la tecnología una oportunidad para tender puentes y conectar a las
  </p>
 
 ## Proyectos 💼
+<h2 align='center'> e-conomy 🚀. Finance App/e-commerce 📊 <h2><p align='center'><br>
+<img src='./src/econo1.png' alt="foto1" width="400" height="200">
+<img src='./src/econo2.png' alt="foto2" width="400" height="200">
+<img src='./src/econo3.png' alt="foto3" width="400" height="200">
+<img src='./src/econo4.png' alt="foto4" width="400" height="200">
+</p>
+<h5>
+<h4>Client:</h4> React, Redux <br>
+  <h4>Server:</h4> Node, Express, PostgreSQL, Sequelize</h5>
+<hr/>
+
 <h2 align='center'> Game-Over. Videogames Project 👾 <h2><p align='center'><br>
 <img src='./src/Captura1.png' alt="foto1" width="400" height="200">
 <img src='./src/Captura2.png' alt="foto2" width="400" height="200">
@@ -43,4 +54,4 @@ Encuentro en la tecnología una oportunidad para tender puentes y conectar a las
 <h4>Client:</h4> React <br>
 <hr/>
 
-Más proyectos en breve... ✍️
+Más proyectos en breve...👨‍🍳🍳⏳
