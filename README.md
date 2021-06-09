@@ -17,6 +17,12 @@ Encuentro en la tecnología una oportunidad para tender puentes y conectar a las
 - HTML
 - CSS
 
+## Contáctame
+<p>
+  <a target="_blank" href="https://www.linkedin.com/in/edgarcastillejos/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:ecastillejossantamaria@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+ </p>
+
 ## Proyectos 💼
 <h2 align='center'> Game-Over. Videogames Project 👾 <h2><p align='center'><br>
 <img src='./src/Captura1.png' alt="foto1" width="400" height="200">
@@ -38,9 +44,3 @@ Encuentro en la tecnología una oportunidad para tender puentes y conectar a las
 <hr/>
 
 Más proyectos en breve... ✍️
-
-## Contáctame
-<p>
-  <a target="_blank" href="https://www.linkedin.com/in/edgarcastillejos/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:ecastillejossantamaria@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
- </p>
