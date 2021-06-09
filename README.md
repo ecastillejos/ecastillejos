@@ -28,6 +28,14 @@ Encuentro en la tecnología una oportunidad para tender puentes y conectar a las
 <h4>Client:</h4> React, Redux <br>
   <h4>Server:</h4> Node, Express, PostgreSQL, Sequelize</h5>
 <hr/>
+  
+<h2 align='center'> Weather App 🌤 <h2><p align='center'><br>
+<img src='./src/img1.png' alt="foto1" width="400" height="200">
+<img src='./src/img2.png' alt="foto2" width="400" height="200">
+</p>
+<h5>
+<h4>Client:</h4> React <br>
+<hr/>
 
 Más proyectos en breve... ✍️
 
