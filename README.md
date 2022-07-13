@@ -17,6 +17,7 @@ Encuentro en la tecnología una oportunidad para tender puentes y conectar a las
 - HTML
 - CSS
 
+<!---
 ## Contáctame
 <p>
   <a target="_blank" href="https://www.linkedin.com/in/edgarcastillejos/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
@@ -55,3 +56,4 @@ Encuentro en la tecnología una oportunidad para tender puentes y conectar a las
 <hr/>
 
 Más proyectos en breve...👨‍🍳🍳⏳
+-->
